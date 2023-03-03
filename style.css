@@ -30,7 +30,7 @@ box-sizing: border-box;
   width: 7px;
 }
 ::-webkit-scrollbar-track{
-  background:#E7B10A ;
+  background:#ECF2FF ;
 }
 ::-webkit-scrollbar-thumb{
   background: linear-gradient(#D61355, #FCE22A,#30E3DF );
