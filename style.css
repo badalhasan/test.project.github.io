@@ -27,7 +27,7 @@ box-sizing: border-box;
   max-width: 650px;
 }
 ::-webkit-scrollbar{
-  width: 15px;
+  width: 7px;
 }
 ::-webkit-scrollbar-track{
   background:#E7B10A ;
